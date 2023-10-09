@@ -19,9 +19,9 @@ def chazhi(gt_path,img_path,save_path):
 
 
 if __name__ =='__main__':
-    gt_path = '/home/shuaizhang/gaussian-splatting-main2/output/c8acd90b-4/test/ours_30000/gt'
-    img_path = '/home/shuaizhang/gaussian-splatting-main2/output/c8acd90b-4/test/ours_30000/renders'
-    save_path = '/home/shuaizhang/gaussian-splatting-main2/chazhitu'
+    gt_path = ''
+    img_path = ''
+    save_path = ''
     chazhi(gt_path,img_path,save_path)
 
 
