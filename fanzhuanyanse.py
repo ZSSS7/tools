@@ -28,8 +28,8 @@ def fanzhuan(image_path,save_path):
 
 
 if __name__ == '__main__':
-    image_path = '/home/shuaizhang/gaussian-splatting-main2/chazhitu/'
-    save_path = '/home/shuaizhang/gaussian-splatting-main2/chazhitu2/'
+    image_path = ''
+    save_path = ''
     fanzhuan(image_path,save_path)
 
 
