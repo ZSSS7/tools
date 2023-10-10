@@ -31,9 +31,9 @@ def create_video(image_folder1, image_folder2, image_folder3, output_video):
     print("视频制作完成！")
 
 # 输入图片文件夹路径和输出视频路径
-image_folder1 = '/home/shuaizhang/gaussian-splatting-main2/output/30/test/ours_30000/gt'
-image_folder2 = '/home/shuaizhang/gaussian-splatting-main2/output/30/test/ours_30000/renders'
-image_folder3 = '/home/shuaizhang/gaussian-splatting-main2/chazhitu2'
+image_folder1 = ''
+image_folder2 = ''
+image_folder3 = ''
 output_video = "output.mp4"
 
 # 调用函数创建视频
